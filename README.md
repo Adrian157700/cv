@@ -8,25 +8,25 @@ Zawartość strony
 
   Strona składa się z następujących sekcji:
   
-  Nagłówek (header): Zawiera zdjęcie użytkownika, przycisk do wyświetlenia ukrytych danych oraz sekcję z rozmytymi danymi osobowymi.
-
-  Sekcje główne (main): 
-  Wykształcenie
-  Doświadczenie zawodowe
-  Znajomość języków
-  Umiejętności
-  Szkolenia, kursy, certyfikaty
-  Zainteresowania
-
-  Pasek boczny (aside): Dwa puste paski boczne po lewej i prawej stronie dla lepszego rozłożenia treści.
+    Nagłówek (header): Zawiera zdjęcie użytkownika, przycisk do wyświetlenia ukrytych danych oraz sekcję z rozmytymi danymi osobowymi.
+  
+    Sekcje główne (main): 
+    Wykształcenie
+    Doświadczenie zawodowe
+    Znajomość języków
+    Umiejętności
+    Szkolenia, kursy, certyfikaty
+    Zainteresowania
+  
+    Pasek boczny (aside): Dwa puste paski boczne po lewej i prawej stronie dla lepszego rozłożenia treści.
 
 
   CSS
   Stylizacja strony jest realizowana za pomocą arkusza stylów style.css. Główne cechy stylizacji:
   
-  Responsywność: Strona jest zaprojektowana tak, aby dobrze wyglądała na różnych urządzeniach.
-  Animacje i efekty: Efekty takie jak powiększanie zdjęć przy najechaniu oraz zmiana kolorów nagłówków sekcji.
-  Modalne okno: Stylizacja okna modalnego do wprowadzania hasła.
+    Responsywność: Strona jest zaprojektowana tak, aby dobrze wyglądała na różnych urządzeniach.
+    Animacje i efekty: Efekty takie jak powiększanie zdjęć przy najechaniu oraz zmiana kolorów nagłówków sekcji.
+    Modalne okno: Stylizacja okna modalnego do wprowadzania hasła.
 
 
   JavaScript i jQuery
@@ -50,17 +50,17 @@ Zawartość strony
 
   Technologie użyte w projekcie
 
-  HTML5
-  Struktura strony jest zbudowana przy użyciu HTML5.
-
-  CSS3
-  Stylizacja strony jest zrealizowana przy użyciu CSS3.
-
-  JavaScript
-  Wykorzystanie czystego JavaScriptu do obsługi aktualizacji daty i godziny oraz formatowania wartości czasu.
-
-  jQuery
-  Użycie jQuery do obsługi zdarzeń, animacji oraz manipulacji DOM, co upraszcza i przyspiesza rozwój interaktywnych elementów na stronie.
+    HTML5
+    Struktura strony jest zbudowana przy użyciu HTML5.
+  
+    CSS3
+    Stylizacja strony jest zrealizowana przy użyciu CSS3.
+  
+    JavaScript
+    Wykorzystanie czystego JavaScriptu do obsługi aktualizacji daty i godziny oraz formatowania wartości czasu.
+  
+    jQuery
+    Użycie jQuery do obsługi zdarzeń, animacji oraz manipulacji DOM, co upraszcza i przyspiesza rozwój interaktywnych elementów na stronie.
 
 
 
