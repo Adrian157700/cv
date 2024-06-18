@@ -1,6 +1,8 @@
 Projekt dotyczy realizacji swojego CV w formie wyświetlanej na stronie. 
 Strona jest responsywna, zawiera widget w postaci zegara, animacje, czy mechanizm umożliwiający pokazać dane osobowe.
 
+Hasło do pokazania danych:1234
+
 Użycie jQuery:
 
 1.	Animacja Fade In: cały kontener jest stopniowo wyświetlany po załadowaniu strony.
