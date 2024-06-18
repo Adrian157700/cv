@@ -57,6 +57,14 @@ Zawartość strony
   
     jQuery
     Użycie jQuery do obsługi zdarzeń, animacji oraz manipulacji DOM, co upraszcza i przyspiesza rozwój interaktywnych elementów na stronie.
+    
+    
+  Pliki w projekcie:
+
+    index.html: Plik HTML zawierający strukturę strony.
+    style.css: Plik CSS zawierający stylizację strony.
+    script.js: Plik JavaScript zawierający logikę aktualizacji czasu, obsługę modalnego okna oraz animacje.
+ 
 
 
 
