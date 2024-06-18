@@ -37,7 +37,7 @@ Zawartość strony
     5.	Zamknięcie okna modalnego po kliknięciu poza jego obszarem: zamknięcie okna modalnego, gdy użytkownik kliknie poza jego obszarem.
     
     
-    Czysty JavaScript:
+  Czysty JavaScript:
     
     1.	Pobieranie elementów daty i godziny za pomocą selektorów.
     2.	Wartości godzin, minut i sekund.
