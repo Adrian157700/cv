@@ -4,9 +4,7 @@ Hasło do pokazania danych:1234
 
 Zawartość strony
 
-  Struktura HTML
-
-  Strona składa się z następujących sekcji:
+  HTML: Strona składa się z następujących sekcji:
   
     Nagłówek (header): Zawiera zdjęcie użytkownika, przycisk do wyświetlenia ukrytych danych oraz sekcję z rozmytymi danymi osobowymi.
   
@@ -21,16 +19,14 @@ Zawartość strony
     Pasek boczny (aside): Dwa puste paski boczne po lewej i prawej stronie dla lepszego rozłożenia treści.
 
 
-  CSS
-  Stylizacja strony jest realizowana za pomocą arkusza stylów style.css. Główne cechy stylizacji:
+  CSS: Stylizacja strony jest realizowana za pomocą arkusza stylów style.css. Główne cechy stylizacji:
   
     Responsywność: Strona jest zaprojektowana tak, aby dobrze wyglądała na różnych urządzeniach.
     Animacje i efekty: Efekty takie jak powiększanie zdjęć przy najechaniu oraz zmiana kolorów nagłówków sekcji.
     Modalne okno: Stylizacja okna modalnego do wprowadzania hasła.
 
 
-  JavaScript i jQuery
-  Strona korzysta z JavaScript i jQuery do realizacji dynamicznych funkcji:
+  JavaScript i jQuery: Strona korzysta z JavaScript i jQuery do realizacji dynamicznych funkcji:
   
   jQuery:
 
